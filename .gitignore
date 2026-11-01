@@ -1,0 +1,31 @@
+# Raw data (Kaggle, CC BY-NC-SA 4.0) and generated data - see data/README.md
+data/*
+!data/README.md
+data/processed/
+*.db
+*.sqlite
+*.sqlite3
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Credentials
+.env
+kaggle.json
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

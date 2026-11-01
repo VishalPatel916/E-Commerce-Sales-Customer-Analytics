@@ -1,0 +1,6 @@
+delivery_bucket,orders,avg_review_score,pct_1_2_star
+a) 7+ days early,70929,4.317,8.9
+b) on time (0-7 days early),17234,4.201,10.2
+c) 0-3 days late,2636,3.767,19.1
+d) 3-7 days late,1773,2.317,61.3
+e) 7+ days late,3252,1.729,78.3
